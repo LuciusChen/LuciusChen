@@ -1,15 +1,51 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#1a1b27" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tinyurl.com/github-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="526"
+  height="190"
+  viewBox="0 0 526 190"
+  role="img"
+  aria-labelledby="stats-title stats-desc"
+>
+  <title id="stats-title">LuciusChen's GitHub stats</title>
+  <desc id="stats-desc">Public GitHub statistics updated automatically.</desc>
+  <style>
+    .title { font: 600 18px "Segoe UI", Ubuntu, sans-serif; fill: #70a5fd; }
+    .label { font: 400 14px "Segoe UI", Ubuntu, sans-serif; fill: #a9b1d6; }
+    .value { font: 600 14px "Segoe UI", Ubuntu, sans-serif; fill: #c0caf5; }
+    .updated { font: 400 11px "Segoe UI", Ubuntu, sans-serif; fill: #565f89; }
+  </style>
+  <rect x="0.5" y="0.5" width="525" height="189" rx="6" fill="#1a1b27" stroke="#30363d"/>
+  <text x="26" y="36" class="title">LuciusChen's GitHub Stats</text>
+  <path d="M26 51H500" stroke="#30363d"/>
+  <g>
+      <circle cx="28" cy="77" r="4" fill="#38bdae"/>
+      <text x="40" y="82" class="label">Total Stars</text>
+      <text x="238" y="82" text-anchor="end" class="value">308</text>
+    </g>
+  <g>
+      <circle cx="288" cy="77" r="4" fill="#38bdae"/>
+      <text x="300" y="82" class="label">Public Repos</text>
+      <text x="498" y="82" text-anchor="end" class="value">78</text>
+    </g>
+  <g>
+      <circle cx="28" cy="115" r="4" fill="#38bdae"/>
+      <text x="40" y="120" class="label">Commits (2026)</text>
+      <text x="238" y="120" text-anchor="end" class="value">1,016</text>
+    </g>
+  <g>
+      <circle cx="288" cy="115" r="4" fill="#38bdae"/>
+      <text x="300" y="120" class="label">Pull Requests (2026)</text>
+      <text x="498" y="120" text-anchor="end" class="value">57</text>
+    </g>
+  <g>
+      <circle cx="28" cy="153" r="4" fill="#38bdae"/>
+      <text x="40" y="158" class="label">Issues (2026)</text>
+      <text x="238" y="158" text-anchor="end" class="value">3</text>
+    </g>
+  <g>
+      <circle cx="288" cy="153" r="4" fill="#38bdae"/>
+      <text x="300" y="158" class="label">Followers</text>
+      <text x="498" y="158" text-anchor="end" class="value">41</text>
+    </g>
+  <text x="500" y="178" text-anchor="end" class="updated">Updated 2026-07-23 UTC</text>
+</svg>

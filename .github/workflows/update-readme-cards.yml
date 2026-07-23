@@ -20,21 +20,19 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v6
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate profile cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-profile-cards.mjs
 
-      - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Validate generated cards
+        run: |
+          grep -q "<svg" profile/top-langs.svg
+          grep -q "<svg" profile/stats.svg
+          if grep -Eqi "Something went wrong|Resource not accessible|rate limit" profile/*.svg; then
+            exit 1
+          fi
 
       - name: Commit updated cards
         run: |
