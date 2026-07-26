@@ -23,7 +23,7 @@
   </defs>
   <g clip-path="url(#language-bar)">
     <rect x="26" y="58" width="308" height="8" fill="#30363d"/>
-    <rect x="26.00" y="58" width="132.75" height="8" fill="#c065db"/><rect x="158.75" y="58" width="71.69" height="8" fill="#e34c26"/><rect x="230.44" y="58" width="39.36" height="8" fill="#dea584"/><rect x="269.80" y="58" width="24.37" height="8" fill="#555555"/><rect x="294.17" y="58" width="18.24" height="8" fill="#3572A5"/><rect x="312.41" y="58" width="8.25" height="8" fill="#b07219"/>
+    <rect x="26.00" y="58" width="132.74" height="8" fill="#c065db"/><rect x="158.74" y="58" width="71.68" height="8" fill="#e34c26"/><rect x="230.42" y="58" width="39.36" height="8" fill="#dea584"/><rect x="269.78" y="58" width="24.37" height="8" fill="#555555"/><rect x="294.15" y="58" width="18.24" height="8" fill="#3572A5"/><rect x="312.38" y="58" width="8.25" height="8" fill="#b07219"/>
   </g>
   <g>
       <circle cx="28" cy="94" r="5" fill="#c065db"/>
@@ -55,5 +55,5 @@
       <text x="202" y="159" class="language">Java</text>
       <text x="336" y="159" text-anchor="end" class="percentage">2.7%</text>
     </g>
-  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-07-25 UTC</text>
+  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-07-26 UTC</text>
 </svg>
