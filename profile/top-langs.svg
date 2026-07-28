@@ -23,27 +23,27 @@
   </defs>
   <g clip-path="url(#language-bar)">
     <rect x="26" y="58" width="308" height="8" fill="#30363d"/>
-    <rect x="26.00" y="58" width="133.43" height="8" fill="#c065db"/><rect x="159.43" y="58" width="71.23" height="8" fill="#e34c26"/><rect x="230.66" y="58" width="39.29" height="8" fill="#dea584"/><rect x="269.95" y="58" width="24.22" height="8" fill="#555555"/><rect x="294.16" y="58" width="18.12" height="8" fill="#3572A5"/><rect x="312.28" y="58" width="8.43" height="8" fill="#b07219"/>
+    <rect x="26.00" y="58" width="134.35" height="8" fill="#c065db"/><rect x="160.35" y="58" width="70.85" height="8" fill="#e34c26"/><rect x="231.20" y="58" width="39.08" height="8" fill="#dea584"/><rect x="270.28" y="58" width="24.09" height="8" fill="#555555"/><rect x="294.37" y="58" width="18.03" height="8" fill="#3572A5"/><rect x="312.39" y="58" width="8.39" height="8" fill="#b07219"/>
   </g>
   <g>
       <circle cx="28" cy="94" r="5" fill="#c065db"/>
       <text x="40" y="99" class="language">Emacs Lisp</text>
-      <text x="174" y="99" text-anchor="end" class="percentage">43.3%</text>
+      <text x="174" y="99" text-anchor="end" class="percentage">43.6%</text>
     </g>
   <g>
       <circle cx="190" cy="94" r="5" fill="#e34c26"/>
       <text x="202" y="99" class="language">HTML</text>
-      <text x="336" y="99" text-anchor="end" class="percentage">23.1%</text>
+      <text x="336" y="99" text-anchor="end" class="percentage">23.0%</text>
     </g>
   <g>
       <circle cx="28" cy="124" r="5" fill="#dea584"/>
       <text x="40" y="129" class="language">Rust</text>
-      <text x="174" y="129" text-anchor="end" class="percentage">12.8%</text>
+      <text x="174" y="129" text-anchor="end" class="percentage">12.7%</text>
     </g>
   <g>
       <circle cx="190" cy="124" r="5" fill="#555555"/>
       <text x="202" y="129" class="language">C</text>
-      <text x="336" y="129" text-anchor="end" class="percentage">7.9%</text>
+      <text x="336" y="129" text-anchor="end" class="percentage">7.8%</text>
     </g>
   <g>
       <circle cx="28" cy="154" r="5" fill="#3572A5"/>
@@ -55,5 +55,5 @@
       <text x="202" y="159" class="language">Java</text>
       <text x="336" y="159" text-anchor="end" class="percentage">2.7%</text>
     </g>
-  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-07-27 UTC</text>
+  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-07-28 UTC</text>
 </svg>
