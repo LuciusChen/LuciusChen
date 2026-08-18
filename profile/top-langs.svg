@@ -23,37 +23,37 @@
   </defs>
   <g clip-path="url(#language-bar)">
     <rect x="26" y="58" width="308" height="8" fill="#30363d"/>
-    <rect x="26.00" y="58" width="137.17" height="8" fill="#c065db"/><rect x="163.17" y="58" width="61.57" height="8" fill="#e34c26"/><rect x="224.74" y="58" width="33.96" height="8" fill="#dea584"/><rect x="258.71" y="58" width="20.93" height="8" fill="#555555"/><rect x="279.64" y="58" width="19.17" height="8" fill="#3178c6"/><rect x="298.81" y="58" width="15.66" height="8" fill="#3572A5"/>
+    <rect x="26.00" y="58" width="135.81" height="8" fill="#c065db"/><rect x="161.81" y="58" width="60.84" height="8" fill="#e34c26"/><rect x="222.64" y="58" width="33.56" height="8" fill="#dea584"/><rect x="256.20" y="58" width="21.48" height="8" fill="#3178c6"/><rect x="277.68" y="58" width="20.68" height="8" fill="#555555"/><rect x="298.37" y="58" width="15.48" height="8" fill="#3572A5"/>
   </g>
   <g>
       <circle cx="28" cy="94" r="5" fill="#c065db"/>
       <text x="40" y="99" class="language">Emacs Lisp</text>
-      <text x="174" y="99" text-anchor="end" class="percentage">44.5%</text>
+      <text x="174" y="99" text-anchor="end" class="percentage">44.1%</text>
     </g>
   <g>
       <circle cx="190" cy="94" r="5" fill="#e34c26"/>
       <text x="202" y="99" class="language">HTML</text>
-      <text x="336" y="99" text-anchor="end" class="percentage">20.0%</text>
+      <text x="336" y="99" text-anchor="end" class="percentage">19.8%</text>
     </g>
   <g>
       <circle cx="28" cy="124" r="5" fill="#dea584"/>
       <text x="40" y="129" class="language">Rust</text>
-      <text x="174" y="129" text-anchor="end" class="percentage">11.0%</text>
+      <text x="174" y="129" text-anchor="end" class="percentage">10.9%</text>
     </g>
   <g>
-      <circle cx="190" cy="124" r="5" fill="#555555"/>
-      <text x="202" y="129" class="language">C</text>
-      <text x="336" y="129" text-anchor="end" class="percentage">6.8%</text>
+      <circle cx="190" cy="124" r="5" fill="#3178c6"/>
+      <text x="202" y="129" class="language">TypeScript</text>
+      <text x="336" y="129" text-anchor="end" class="percentage">7.0%</text>
     </g>
   <g>
-      <circle cx="28" cy="154" r="5" fill="#3178c6"/>
-      <text x="40" y="159" class="language">TypeScript</text>
-      <text x="174" y="159" text-anchor="end" class="percentage">6.2%</text>
+      <circle cx="28" cy="154" r="5" fill="#555555"/>
+      <text x="40" y="159" class="language">C</text>
+      <text x="174" y="159" text-anchor="end" class="percentage">6.7%</text>
     </g>
   <g>
       <circle cx="190" cy="154" r="5" fill="#3572A5"/>
       <text x="202" y="159" class="language">Python</text>
-      <text x="336" y="159" text-anchor="end" class="percentage">5.1%</text>
+      <text x="336" y="159" text-anchor="end" class="percentage">5.0%</text>
     </g>
-  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-08-17 UTC</text>
+  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-08-18 UTC</text>
 </svg>
