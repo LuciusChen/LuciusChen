@@ -23,12 +23,12 @@
   </defs>
   <g clip-path="url(#language-bar)">
     <rect x="26" y="58" width="308" height="8" fill="#30363d"/>
-    <rect x="26.00" y="58" width="138.08" height="8" fill="#c065db"/><rect x="164.08" y="58" width="58.96" height="8" fill="#e34c26"/><rect x="223.03" y="58" width="32.52" height="8" fill="#dea584"/><rect x="255.56" y="58" width="21.91" height="8" fill="#3178c6"/><rect x="277.47" y="58" width="20.04" height="8" fill="#555555"/><rect x="297.51" y="58" width="15.12" height="8" fill="#3572A5"/>
+    <rect x="26.00" y="58" width="138.32" height="8" fill="#c065db"/><rect x="164.32" y="58" width="58.87" height="8" fill="#e34c26"/><rect x="223.20" y="58" width="32.47" height="8" fill="#dea584"/><rect x="255.67" y="58" width="21.88" height="8" fill="#3178c6"/><rect x="277.55" y="58" width="20.02" height="8" fill="#555555"/><rect x="297.56" y="58" width="15.10" height="8" fill="#3572A5"/>
   </g>
   <g>
       <circle cx="28" cy="94" r="5" fill="#c065db"/>
       <text x="40" y="99" class="language">Emacs Lisp</text>
-      <text x="174" y="99" text-anchor="end" class="percentage">44.8%</text>
+      <text x="174" y="99" text-anchor="end" class="percentage">44.9%</text>
     </g>
   <g>
       <circle cx="190" cy="94" r="5" fill="#e34c26"/>
@@ -38,7 +38,7 @@
   <g>
       <circle cx="28" cy="124" r="5" fill="#dea584"/>
       <text x="40" y="129" class="language">Rust</text>
-      <text x="174" y="129" text-anchor="end" class="percentage">10.6%</text>
+      <text x="174" y="129" text-anchor="end" class="percentage">10.5%</text>
     </g>
   <g>
       <circle cx="190" cy="124" r="5" fill="#3178c6"/>
@@ -55,5 +55,5 @@
       <text x="202" y="159" class="language">Python</text>
       <text x="336" y="159" text-anchor="end" class="percentage">4.9%</text>
     </g>
-  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-10-05 UTC</text>
+  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-10-06 UTC</text>
 </svg>
