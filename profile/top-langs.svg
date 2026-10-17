@@ -23,7 +23,7 @@
   </defs>
   <g clip-path="url(#language-bar)">
     <rect x="26" y="58" width="308" height="8" fill="#30363d"/>
-    <rect x="26.00" y="58" width="142.71" height="8" fill="#c065db"/><rect x="168.71" y="58" width="57.17" height="8" fill="#e34c26"/><rect x="225.88" y="58" width="32.04" height="8" fill="#dea584"/><rect x="257.92" y="58" width="21.24" height="8" fill="#3178c6"/><rect x="279.16" y="58" width="19.44" height="8" fill="#555555"/><rect x="298.60" y="58" width="14.66" height="8" fill="#3572A5"/>
+    <rect x="26.00" y="58" width="142.74" height="8" fill="#c065db"/><rect x="168.74" y="58" width="57.16" height="8" fill="#e34c26"/><rect x="225.89" y="58" width="32.03" height="8" fill="#dea584"/><rect x="257.93" y="58" width="21.24" height="8" fill="#3178c6"/><rect x="279.17" y="58" width="19.43" height="8" fill="#555555"/><rect x="298.60" y="58" width="14.66" height="8" fill="#3572A5"/>
   </g>
   <g>
       <circle cx="28" cy="94" r="5" fill="#c065db"/>
@@ -55,5 +55,5 @@
       <text x="202" y="159" class="language">Python</text>
       <text x="336" y="159" text-anchor="end" class="percentage">4.8%</text>
     </g>
-  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-10-16 UTC</text>
+  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-10-17 UTC</text>
 </svg>
