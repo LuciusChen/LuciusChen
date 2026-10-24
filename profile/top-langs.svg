@@ -23,22 +23,22 @@
   </defs>
   <g clip-path="url(#language-bar)">
     <rect x="26" y="58" width="308" height="8" fill="#30363d"/>
-    <rect x="26.00" y="58" width="143.50" height="8" fill="#c065db"/><rect x="169.50" y="58" width="56.89" height="8" fill="#e34c26"/><rect x="226.40" y="58" width="31.88" height="8" fill="#dea584"/><rect x="258.28" y="58" width="21.14" height="8" fill="#3178c6"/><rect x="279.42" y="58" width="19.34" height="8" fill="#555555"/><rect x="298.76" y="58" width="14.59" height="8" fill="#3572A5"/>
+    <rect x="26.00" y="58" width="143.25" height="8" fill="#c065db"/><rect x="169.25" y="58" width="56.80" height="8" fill="#e34c26"/><rect x="226.05" y="58" width="32.36" height="8" fill="#dea584"/><rect x="258.41" y="58" width="21.11" height="8" fill="#3178c6"/><rect x="279.52" y="58" width="19.31" height="8" fill="#555555"/><rect x="298.83" y="58" width="14.57" height="8" fill="#3572A5"/>
   </g>
   <g>
       <circle cx="28" cy="94" r="5" fill="#c065db"/>
       <text x="40" y="99" class="language">Emacs Lisp</text>
-      <text x="174" y="99" text-anchor="end" class="percentage">46.6%</text>
+      <text x="174" y="99" text-anchor="end" class="percentage">46.5%</text>
     </g>
   <g>
       <circle cx="190" cy="94" r="5" fill="#e34c26"/>
       <text x="202" y="99" class="language">HTML</text>
-      <text x="336" y="99" text-anchor="end" class="percentage">18.5%</text>
+      <text x="336" y="99" text-anchor="end" class="percentage">18.4%</text>
     </g>
   <g>
       <circle cx="28" cy="124" r="5" fill="#dea584"/>
       <text x="40" y="129" class="language">Rust</text>
-      <text x="174" y="129" text-anchor="end" class="percentage">10.4%</text>
+      <text x="174" y="129" text-anchor="end" class="percentage">10.5%</text>
     </g>
   <g>
       <circle cx="190" cy="124" r="5" fill="#3178c6"/>
@@ -55,5 +55,5 @@
       <text x="202" y="159" class="language">Python</text>
       <text x="336" y="159" text-anchor="end" class="percentage">4.7%</text>
     </g>
-  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-10-23 UTC</text>
+  <text x="334" y="178" text-anchor="end" class="updated">Updated 2026-10-24 UTC</text>
 </svg>
